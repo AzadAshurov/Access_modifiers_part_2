@@ -14,7 +14,15 @@
             }
             set
             {
-                _name = value;
+
+                if (value.Trim().Length > 1)
+                {
+                    _name = value.Trim();
+                }
+                else
+                {
+                    Console.WriteLine("Too short for name");
+                }
             }
         }
         public string Author
@@ -25,7 +33,14 @@
             }
             set
             {
-                _author = value;
+                if (value.Trim().Length > 1)
+                {
+                    _author = value.Trim();
+                }
+                else
+                {
+                    Console.WriteLine("Too short for author name");
+                }
             }
         }
         public bool IsAvailable

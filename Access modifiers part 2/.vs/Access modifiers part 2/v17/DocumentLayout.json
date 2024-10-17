@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Baku\\Desktop\\Access modifiers part 2\\",
+  "WorkspaceRootPath": "C:\\Users\\Baku\\Desktop\\Access_modifiers_part_2\\Access modifiers part 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08B4E996-A6C0-421A-B9C4-5382AFC58F4E}|Access modifiers part 2.csproj|c:\\users\\baku\\desktop\\access modifiers part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08B4E996-A6C0-421A-B9C4-5382AFC58F4E}|Access modifiers part 2.csproj|c:\\users\\baku\\desktop\\access_modifiers_part_2\\access modifiers part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08B4E996-A6C0-421A-B9C4-5382AFC58F4E}|Access modifiers part 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08B4E996-A6C0-421A-B9C4-5382AFC58F4E}|Access modifiers part 2.csproj|c:\\users\\baku\\desktop\\access modifiers part 2\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08B4E996-A6C0-421A-B9C4-5382AFC58F4E}|Access modifiers part 2.csproj|solutionrelative:booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08B4E996-A6C0-421A-B9C4-5382AFC58F4E}|Access modifiers part 2.csproj|c:\\users\\baku\\desktop\\access_modifiers_part_2\\access modifiers part 2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B4E996-A6C0-421A-B9C4-5382AFC58F4E}|Access modifiers part 2.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08B4E996-A6C0-421A-B9C4-5382AFC58F4E}|Access modifiers part 2.csproj|c:\\users\\baku\\desktop\\access modifiers part 2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08B4E996-A6C0-421A-B9C4-5382AFC58F4E}|Access modifiers part 2.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08B4E996-A6C0-421A-B9C4-5382AFC58F4E}|Access modifiers part 2.csproj|c:\\users\\baku\\desktop\\access_modifiers_part_2\\access modifiers part 2\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B4E996-A6C0-421A-B9C4-5382AFC58F4E}|Access modifiers part 2.csproj|solutionrelative:booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +26,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BookLibrary.cs",
-              "DocumentMoniker": "C:\\Users\\Baku\\Desktop\\Access modifiers part 2\\BookLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Baku\\Desktop\\Access_modifiers_part_2\\Access modifiers part 2\\BookLibrary.cs",
               "RelativeDocumentMoniker": "BookLibrary.cs",
-              "ToolTip": "C:\\Users\\Baku\\Desktop\\Access modifiers part 2\\BookLibrary.cs",
+              "ToolTip": "C:\\Users\\Baku\\Desktop\\Access_modifiers_part_2\\Access modifiers part 2\\BookLibrary.cs",
               "RelativeToolTip": "BookLibrary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T19:27:14.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Baku\\Desktop\\Access modifiers part 2\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Baku\\Desktop\\Access_modifiers_part_2\\Access modifiers part 2\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "C:\\Users\\Baku\\Desktop\\Access modifiers part 2\\Book.cs",
+              "ToolTip": "C:\\Users\\Baku\\Desktop\\Access_modifiers_part_2\\Access modifiers part 2\\Book.cs",
               "RelativeToolTip": "Book.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T18:51:02.846Z",
               "EditorCaption": ""
@@ -54,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Baku\\Desktop\\Access modifiers part 2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Baku\\Desktop\\Access_modifiers_part_2\\Access modifiers part 2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Baku\\Desktop\\Access modifiers part 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Baku\\Desktop\\Access_modifiers_part_2\\Access modifiers part 2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T18:49:58.667Z",
               "EditorCaption": ""

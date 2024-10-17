@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Baku\\Desktop\\Access modifiers part 2\\Access modifiers part 2.csproj": {}
+    "C:\\Users\\Baku\\Desktop\\Access_modifiers_part_2\\Access modifiers part 2\\Access modifiers part 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Baku\\Desktop\\Access modifiers part 2\\Access modifiers part 2.csproj": {
+    "C:\\Users\\Baku\\Desktop\\Access_modifiers_part_2\\Access modifiers part 2\\Access modifiers part 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Baku\\Desktop\\Access modifiers part 2\\Access modifiers part 2.csproj",
+        "projectUniqueName": "C:\\Users\\Baku\\Desktop\\Access_modifiers_part_2\\Access modifiers part 2\\Access modifiers part 2.csproj",
         "projectName": "Access modifiers part 2",
-        "projectPath": "C:\\Users\\Baku\\Desktop\\Access modifiers part 2\\Access modifiers part 2.csproj",
+        "projectPath": "C:\\Users\\Baku\\Desktop\\Access_modifiers_part_2\\Access modifiers part 2\\Access modifiers part 2.csproj",
         "packagesPath": "C:\\Users\\Baku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Baku\\Desktop\\Access modifiers part 2\\obj\\",
+        "outputPath": "C:\\Users\\Baku\\Desktop\\Access_modifiers_part_2\\Access modifiers part 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Baku\\AppData\\Roaming\\NuGet\\NuGet.Config",
